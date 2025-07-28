@@ -132,3 +132,6 @@ opkg install libatomic
 ```
 
 As a bonus, in ``VictronEnergy_ProductID.txt`` you will find a list of ProductIDs and their corresponding labels that you can use in your future developments under the ProductId field of the VeBus.
+
+
+[!["Buy Me A Coffee"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpmNngyNWdlbWQ2bDRsZTNiNm80bGl4bnQ5cDI4b3M5ZXhpZm91ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif)](https://www.buymeacoffee.com/f5uii)
