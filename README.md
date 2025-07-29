@@ -16,7 +16,7 @@ For example:
 * Channel B for PV inverter production,
 * and Channel C to monitor the output of a MultiPlus inverter/charger.
 
-With this module, you can easily define in the configuration file which channel is used for your PV Inverter source.
+With this module, you can easily define in the configuration file which channel is used for your PV Inverter source. At this stage of development, only the **PV Inverter** equipment is functional (no Grid, no Genset at present).
 
 ## Prerequisites
 To use this module, you will need:
